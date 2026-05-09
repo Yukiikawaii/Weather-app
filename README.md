@@ -22,5 +22,5 @@ A weather app that fetches real-time weather data using the OpenWeatherMap API. 
 4. Open `index.html` in your browser
 
 ## Live Demo
-[Add your GitHub Pages link here]
+https://yukiikawaii.github.io/Weather-app/
 
